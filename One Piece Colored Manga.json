@@ -12,6 +12,14 @@
       "groups": {
         "One Piece Colored ": "/proxy/api/imgur/chapter/SmiRG2R"
       }
+    },
+    "1101": {
+      "title": "One Piece ",
+      "volume": "0",
+      "last_updated": "1713361654",
+      "groups": {
+        "One Piece Colored ": "https://imgur.com/a/SmtBWUJ"
+      }
     }
   }
 }
