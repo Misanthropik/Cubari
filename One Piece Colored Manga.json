@@ -1,0 +1,17 @@
+{
+  "title": "One Piece Colored Manga",
+  "description": "The story follows the adventures of Monkey D. Luffy and his crew, the Straw Hat Pirates, where he explores the Grand Line in search of the mythical treasure known as the \"One Piece\" in order to become the next King of the Pirates. ",
+  "artist": "ODA EIICHIRO",
+  "author": "ODA EIICHIRO",
+  "cover": "https://upload.wikimedia.org/wikipedia/en/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",
+  "chapters": {
+    "1097": {
+      "title": "Chapter-1097",
+      "volume": "0",
+      "last_updated": "1713360781",
+      "groups": {
+        "One Piece Colored ": "/proxy/api/imgur/chapter/SmiRG2R"
+      }
+    }
+  }
+}
