@@ -1,6 +1,6 @@
 {
   "title": "One Piece Colored Manga",
-  "description": "The story follows the adventures of Monkey D. Luffy and his crew, the Straw Hat Pirates, where he explores the Grand Line in search of the mythical treasure known as the \"One Piece\" in order to become the next King of the Pirates. \n\nFan translations: Ch. 400-752\nFan Art: Ch. 1005-1110+\nGroup ending with AI: AI colored Chapters.",
+  "description": "The story follows the adventures of Monkey D. Luffy and his crew, the Straw Hat Pirates, where he explores the Grand Line in search of the mythical treasure known as the \"One Piece\" in order to become the next King of the Pirates. \n\nFan translations: Ch. 400-752\nFan Art: Ch. 1005-1110+\nTitle with \"AI\": AI colored Chapters.",
   "artist": "ODA EIICHIRO",
   "author": "ODA EIICHIRO",
   "cover": "https://upload.wikimedia.org/wikipedia/en/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",
@@ -8548,11 +8548,11 @@
       }
     },
     "1113": {
-      "title": "1113",
+      "title": "One Piece Colored AI",
       "volume": "0",
       "last_updated": "1714848657",
       "groups": {
-        "One Piece Colored AI": [
+        "One Piece Colored": [
           "https://i.ibb.co/Jt2WXpv/001.png",
           "https://i.ibb.co/6PXFtm5/002.png",
           "https://i.ibb.co/tscMfWG/003.png",
