@@ -8617,13 +8617,11 @@
       }
     },
     "1116": {
-      "title": "One Piece Colored AI",
+      "title": "One Piece",
       "volume": "0",
       "last_updated": "1717166064",
       "groups": {
-        "One Piece Colored": [
-          "/read/api/imgbb/series/231jrZ"
-        ]
+        "One Piece Colored": "/proxy/api/imgbb/chapter/jR5HNXS"
       }
     }
   }
