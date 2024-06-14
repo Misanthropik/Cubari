@@ -8570,7 +8570,22 @@
       "volume": "0",
       "last_updated": "1718359662",
       "groups": {
-        "One Piece Colored": "/proxy/api/imgbb/chapter/6nXsFb"
+        "One Piece Colored": [
+          "https://i.ibb.co/FDpJywT/001.png",
+          "https://i.ibb.co/G90Fy27/002.png",
+          "https://i.ibb.co/6yLfmTv/003.png",
+          "https://i.ibb.co/L5kHxYt/004.png",
+          "https://i.ibb.co/MpW2PPY/005.png",
+          "https://i.ibb.co/JyQxyds/006.png",
+          "https://i.ibb.co/862mXj8/007.png",
+          "https://i.ibb.co/mcW0BQ8/008.png",
+          "https://i.ibb.co/z8RvKCG/009.png",
+          "https://i.ibb.co/N9ZHJ1d/010.png",
+          "https://i.ibb.co/cvVGwst/011.png",
+          "https://i.ibb.co/NL6npQy/012.png",
+          "https://i.ibb.co/rkrQFjL/013.png",
+          "https://i.ibb.co/2crxnX9/014.png"
+        ]
       }
     }
   }
